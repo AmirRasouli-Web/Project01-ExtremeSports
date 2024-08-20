@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: IBMPlexSans-Bold;
+}
+@font-face {
+    font-family: IBMPlexSans-Bold;
+    src: url(../font/IBMPlex/IBMPlexSans-Bold.ttf);
+}
+@font-face {
+    font-family: IBMPlexSans-Regular;
+    src: url(../font/IBMPlex/IBMPlexSans-Regular.ttf);
+}
+@font-face {
+    font-family: IBMPlexSans-Thin;
+    src: url(../font/IBMPlex/IBMPlexSans-Thin.ttf);
+}
+@font-face {
+    font-family: Yellowtail-Regular;
+    src: url(../font/Yellowtail/Yellowtail-Regular.ttf);
+}
+@font-face {
+    font-family: Arizonia-Regular;
+    src: url(../font/Arizonia-Regular/Arizonia-Regular.ttf);
+}
+.flexibility{
+    display: flex;
+    flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
