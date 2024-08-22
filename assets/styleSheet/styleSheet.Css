@@ -859,7 +859,7 @@ footer{
     background-color: rgb(0, 0, 139);
     >figure{
         width: 45%;
-        height: 101%;
+        height: 100%;
         >img{
             height: 99%;
             transform: translateY(.5%);
