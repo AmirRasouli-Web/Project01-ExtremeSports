@@ -20,7 +20,7 @@ It had an attractive yet simple design that made me choose it for my first proje
 
 ## Appendix
 
-This wabsite Sampled by Avada.com and It has a practice aspect, All rights are reserved to the parent website..!
+This website is Sampled by Avada.com and has a practice aspect, All rights are reserved to the parent website.
 ## Feedback
 
 If you have any feedback, please reach out to us at AmirRasouli02@gmail.com
